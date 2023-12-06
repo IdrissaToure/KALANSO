@@ -1,0 +1,24 @@
+.container{
+  background-color: rgb(255, 42, 0);
+  color: white;
+  border-radius: 20px;
+  text-align: center;
+  justify-content: center;
+  margin: 10px;
+  padding: 90px;
+
+}
+.btn{
+  background-color: rgb(17, 141, 50);
+  color: white;
+  border-radius: 20px;
+  margin-top: 190px;
+  text-align: center;
+  justify-content: right;
+  margin: 50px;
+  padding: 30px;
+  /* margin-left: 10px; */
+}
+.btn{
+  justify-content: center;
+}
